@@ -4,9 +4,9 @@ This repository contains my weekly hands-on exercises and assignments completed 
 
 ## Progress
 - Week 1 - Completed
-- Week 2 - In Progress
-- Week 3
-- Week 4
-- Week 5
+- Week 2 - Completed
+- Week 3 - Completed 
+- Week 4 - Completed 
+- Week 5 - Completed
 - Week 6
 - Week 7

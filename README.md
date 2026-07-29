@@ -8,5 +8,5 @@ This repository contains my weekly hands-on exercises and assignments completed 
 - Week 3 - Completed 
 - Week 4 - Completed 
 - Week 5 - Completed
-- Week 6
-- Week 7
+- Week 6 - Completed
+- Week 7 - Completed
